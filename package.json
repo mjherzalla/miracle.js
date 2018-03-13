@@ -1,0 +1,30 @@
+{
+  "name": "miracle.js",
+  "version": "1.0.0",
+  "description": "JSON To HTML Table And 2D arry ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjherzalla/miracle.js.git"
+  },
+  "keywords": [
+    "front",
+    "end",
+    "smiple",
+    "with",
+    "miracle.js"
+  ],
+  "author": "mohammad herzalla <mjherzalla@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjherzalla/miracle.js/issues"
+  },
+  "homepage": "https://github.com/mjherzalla/miracle.js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
