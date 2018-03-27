@@ -1,6 +1,6 @@
 {
   "name": "miracle.js",
-  "version": "1.0.0",
+  "version": "1.9.1",
   "description": "JSON To HTML Table And 2D arry ",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/mjherzalla/miracle.js/issues"
   },
-  "homepage": "https://github.com/mjherzalla/miracle.js#readme",
-  "dependencies": {
-    "xmlhttprequest": "^1.8.0"
-  }
+  "homepage": "https://github.com/mjherzalla/miracle.js#readme"
 }
