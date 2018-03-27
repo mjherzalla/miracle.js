@@ -1,5 +1,5 @@
 # miracle.js
-front end plate-from 
+
 
 Miracle.js is a JavaScript package that helps the developer generate some UI components.
 ### To install using npm
@@ -30,6 +30,6 @@ sortList(ListID);
 Sort any Html Table by passing Table id to the function 
 example:
 ```sh
-sortTable(ListID); 
+sortTable(TableID); 
 ``` 
 More comming soon !!!!
