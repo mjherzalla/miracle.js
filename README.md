@@ -9,3 +9,7 @@ npm install miracle.js
 ### What Miracle.js has
 1.	getTableFromJson
 by passing a json object  to the function and get a HTML table back  
+example:
+```sh
+document.getElementById("ID").innerHTML = getTableFromJson(JOSNObject); 
+``` 
