@@ -1,5 +1,4 @@
-
-export function getTableFromJson(Json){
+exports.getTableFromJson = function(Json)   {
     var obj, x, txt = "";
         txt += "<table border='1'>"
         for (x in Json) {
@@ -20,4 +19,3 @@ export function getTableFromJson(Json){
             txt += "</table>"        
     return txt;
 }
-
